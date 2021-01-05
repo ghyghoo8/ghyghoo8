@@ -1,0 +1,93 @@
+
+面试题搜集：
+
+【重要】技术点，要懂原理，深入浅出
+-------------------------------------------------->
+
+一面题收集： 可能问到的题
+1. vue 怎么处理权限控制？用指令对div进行权限判断
+2. fetch
+3. vue router的两种模式
+4. transform， translate， animation 区别
+5. 重排和重绘; transform合成属性
+6. 事件委托原理
+7. webpack构建产物过大、慢，如何优化
+8. 图片 png jpg webp区别
+9. 前端安全：xss、csrf、cors
+10. 水平垂直居中的一些方法，flex布局，css实现三角的原理，移动端适配的一些方案:rem、vw
+11. 浏览器缓存:强缓存，协商缓存。disk cache，memory cache，以及cache-control
+12. es6新特性 及 使用场景。set 和 map等
+13. event loop，宏任务、微任务
+14. genarator函数的理解
+15. react props和state区别，setState异步原理
+16. react hooks的用法与优缺点
+17. react refs功能
+18. react fiber
+19. mobx简单原理
+20. nginx简单原理：异步事件模型
+21. 微前端基本原理、webcomponent
+
+==================================>整个面试流程可能会问到的问题
+
+JavaScript
+1.bind/apply/call原理、使用场景(setTimeout/React事件绑定)及优先级
+2.ajax&jsonp script跨域实现、使用场景(静态资源与后端接口分离)
+3.深浅拷贝的区别与用途？
+4.介绍ES的Generator是怎么运行的？和async+await有何区别？
+5.简单聊一下js事件队列（Event Loop）、宏任务、微任务区别？
+6.怎么判断一个变量是否是数组，数组常用的api有哪些，怎么删除数组元素？
+
+7.说说你对普通script、async、defer的理解
+
+8.DOM操作——怎样添加、移除、移动、复制、创建和查找节点
+9.jsbrigde原理&实现
+10.ts规范
+
+css
+1.实现一个简单的（水平移动）动画有多少种方法？如何实现？
+2.如何解决移动端动画卡顿问题？
+3.viewport、devicePixelRatio、rem 的配合关系，对 rem、vw 的理解
+（16px=1rem，约定100clientWidth/750px=1rem，通过px2rem，
+反向计算font-size=100clientWidth/750px*rate）
+4.在日常工作中如何保证对视觉稿高保真还原
+
+框架类
+1.在react中，触发render的有哪些途径？
+2.react性能优化方案
+
+性能类
+1.是否曾经做过性能优化？如何优化的？
+2.基于webapck构建的产物过大，要如何进行优化，为什么、怎样做、还有更好的方式吗
+3.目前项目中是如何进行线上监控的，如何捕获js error、分析定位问题
+4.缓存、离线包等应用场景
+5.渲染十万条数据，如何进行优化(时间分片、settimeout、requestAnimationFrame、DocumentFragment)
+
+前端工程
+1.你所负责的项目，前端整个研发生命周期是怎样的，如何通过更好的工程化解决？
+
+数据安全&传输
+1.如何保证数据传输的完整性？
+2.如何保证数据传输的安全性（https、对称加密、非对称加密）？
+3.了解csrf、xss、csp相关原理及应用场景不？
+
+nodejs
+1.怎么保证系统高可用？
+2.怎么做应用监控？
+3.怎么做系统监控？
+4.日志怎么打印？按天归类？怎么快速定位问题？
+5.怎么做错误预警？
+6.child_process 的 exec, spawn, fork 区别
+7.cluster 模块，及相应的负载均衡算法
+8.gc 原理
+9.MongoDB 分片（Sharding）
+10.介绍下 Eventloop
+
+11.如何实现nodejs平滑重启？
+
+12.a.js 和 b.js 两个文件互相 require 是否会死循环? 双方是否能导出变量? 如何从设计上避免这种问题? 
+
+13.eval、Function、VM区别是？
+
+
+
+
