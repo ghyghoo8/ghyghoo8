@@ -1,4 +1,5 @@
-<h3>LOOK HERE 👀 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=ghyghoo8.visitor-badge" /></h3>
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=ghyghoo8&pixelate_avatar=false&show_rank=false&include_all_commits=true&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%23e6fffb%2C%20%23001d66)" />
+
 
 -----
 
