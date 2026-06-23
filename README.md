@@ -16,7 +16,7 @@
 | [mx-skill-cc](https://github.com/ghyghoo8/mx-skill-cc) | 妙想 (MX) Agent Skills for Claude Code |
 | [babel-plugin-code-cleaner](https://github.com/ghyghoo8/babel-plugin-code-cleaner) | Babel plugin — strips `console`/`debugger` from production builds |
 | [wvxEmojiExporter](https://github.com/ghyghoo8/wvxEmojiExporter) | Export images & stickers used in WeChat Work |
-| [ADclearer](https://github.com/ghyghoo8/ADclearer) | Clear AD in Player ｜
+| [ADclearer](https://github.com/ghyghoo8/ADclearer) | Clear ads in players |
 
 **Tech:** TypeScript · Python · Node.js · LLM / agents
 
