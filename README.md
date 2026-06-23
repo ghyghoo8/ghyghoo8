@@ -6,7 +6,7 @@
 
 - 🔭 Focus: agent tooling, LLM plugins, dev-experience utilities
 - 🧰 Mostly **TypeScript** & **Python**
-- 🌱 Lately: making **Kimi Code** easier to use as a delegated sub-agent
+- 🌱 Currently: building **agentic workflows** across many domains & scenarios
 <!-- - 📫 Reach me: add email / blog / X here when ready -->
 
 ### Featured projects
@@ -16,7 +16,7 @@
 | [kimi-skill](https://github.com/ghyghoo8/kimi-skill) | Agent Skills that drive Kimi Code CLI as a headless sub-agent |
 | [babel-plugin-code-cleaner](https://github.com/ghyghoo8/babel-plugin-code-cleaner) | Babel plugin — strips `console`/`debugger` from production builds |
 | [wvxEmojiExporter](https://github.com/ghyghoo8/wvxEmojiExporter) | Export images & stickers used in WeChat Work |
-| [awesome-prompt](https://github.com/ghyghoo8/awesome-prompt) · [awesome-comfyui](https://github.com/ghyghoo8/awesome-comfyui) | Curated prompts & ComfyUI setups |
+| [mx-skill](https://github.com/ghyghoo8/mx-skill) | Agent Skills — building blocks for agentic workflows |
 
 **Tech:** TypeScript · Python · Node.js · LLM / agents
 
