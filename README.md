@@ -5,7 +5,7 @@
 - 🔭 Focus: agent tooling, LLM plugins, dev-experience utilities
 - 🧰 Mostly **TypeScript** & **Python**
 - 🌱 Currently: building **agentic workflows** across many domains & scenarios
-<!-- - 📫 Reach me: add email / blog / X here when ready -->
+- 🌐 Blog: [ghyghoo8.github.io](https://ghyghoo8.github.io/)
 
 ### Featured projects
 
