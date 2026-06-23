@@ -16,7 +16,7 @@
 | [kimi-skill](https://github.com/ghyghoo8/kimi-skill) | Agent Skills that drive Kimi Code CLI as a headless sub-agent |
 | [babel-plugin-code-cleaner](https://github.com/ghyghoo8/babel-plugin-code-cleaner) | Babel plugin — strips `console`/`debugger` from production builds |
 | [wvxEmojiExporter](https://github.com/ghyghoo8/wvxEmojiExporter) | Export images & stickers used in WeChat Work |
-| [mx-skill](https://github.com/ghyghoo8/mx-skill) | Agent Skills — building blocks for agentic workflows |
+| [mx-skill-cc](https://github.com/ghyghoo8/mx-skill-cc) | 妙想 (MX) Agent Skills for Claude Code |
 
 **Tech:** TypeScript · Python · Node.js · LLM / agents
 
